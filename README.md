@@ -70,8 +70,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://sandero7.vercel.app/api?username=SanderO7&show_icons=true&hide=stars,prs,issues&hide_rank=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&border_radius=10"/>
-    <img src="https://sandero7.vercel.app/api?username=SanderO7&show_icons=true&hide=stars,prs,issues&hide_rank=true&bg_color=00000000&title_color=0969DA&text_color=1F2328&icon_color=0969DA&border_color=D0D7DE&border_radius=10" alt="GitHub Stats" height="170" align="top"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://sandero7.vercel.app/api?username=SanderO7&show_icons=true&hide=stars%2Cprs%2Cissues&hide_rank=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&border_radius=10"/>
+    <img src="https://sandero7.vercel.app/api?username=SanderO7&show_icons=true&hide=stars%2Cprs%2Cissues&hide_rank=true&bg_color=00000000&title_color=0969DA&text_color=1F2328&icon_color=0969DA&border_color=D0D7DE&border_radius=10" alt="GitHub Stats" height="170" align="top"/>
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://sandero7.vercel.app/api/top-langs/?username=SanderO7&layout=compact&langs_count=6&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&border_radius=10"/>
