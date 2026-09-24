@@ -16,22 +16,8 @@
 - 🏅 Consistent Dean's Lister since 2023
 - 🔭 Currently building **SunTrace**, an AI-assisted solar feasibility and rooftop planning system
 - 🌱 Interested in full-stack development, backend systems, and applying AI to real-world problems
-- 🗣️ Speaks English, Filipino, and Chinese
+- 🗣️ Speaks English and Filipino
 - 📫 Reach me at **layatchrysander@gmail.com**
-
----
-
-### ☀️ Featured Project: SunTrace
-
-**AI-Assisted Solar Feasibility & Rooftop Planning System** · Capstone Project · Industry partner: Glit Solar
-
-A web-based decision-support system that automates rooftop solar feasibility assessment for solar providers and homeowners across Northern Luzon. Built with an 8-member team.
-
-**My contributions as Full-Stack Developer:**
-- Integrated the Next.js/TypeScript frontend with Spring Boot REST APIs routed through Spring Cloud Gateway
-- Implemented frontend authentication connected to the backend's JWT-based security
-- Built the backend endpoints for the roof segmentation and roof sectioning features
-- Connected the FastAPI + XGBoost ML microservice to the UI, displaying predicted solar output (PVOUT) and feasibility ratings
 
 ---
 
@@ -83,8 +69,14 @@ A web-based decision-support system that automates rooftop solar feasibility ass
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://sandero7.vercel.app/api?username=SanderO7&show_icons=true&theme=default&hide_border=true&hide=stars,prs,issues&hide_rank=true" alt="GitHub Stats" height="165"/>
-  <img src="https://sandero7.vercel.app/api/top-langs/?username=SanderO7&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://sandero7.vercel.app/api?username=SanderO7&show_icons=true&hide=stars,prs,issues&hide_rank=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&border_radius=10"/>
+    <img src="https://sandero7.vercel.app/api?username=SanderO7&show_icons=true&hide=stars,prs,issues&hide_rank=true&bg_color=00000000&title_color=0969DA&text_color=1F2328&icon_color=0969DA&border_color=D0D7DE&border_radius=10" alt="GitHub Stats" height="170" align="top"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://sandero7.vercel.app/api/top-langs/?username=SanderO7&layout=compact&langs_count=6&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&border_radius=10"/>
+    <img src="https://sandero7.vercel.app/api/top-langs/?username=SanderO7&layout=compact&langs_count=6&bg_color=00000000&title_color=0969DA&text_color=1F2328&border_color=D0D7DE&border_radius=10" alt="Top Languages" height="170" align="top"/>
+  </picture>
 </p>
 
 ---
